@@ -39,5 +39,8 @@ navigation:
   - name: Acerca de Nathaliet
     url: 'https://thegrid.ai/nathaliet/acerca-de-nathaliet/'
     type: external
+  - name: Bodys
+    url: 'https://thegrid.ai/nathaliet-body/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/998d24db-e6bb-4d83-a7e4-adb130ecf0c5.png
