@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[nathaliet blazers]]></title>
-        <description><![CDATA[nathaliet blazers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Nathaliet]]></title>
+        <description><![CDATA[Nathaliet]]></description>
+        <link>https://thegrid.ai/nathaliet-blazers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 16:18:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Aug 2016 00:00:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nathaliet-blazers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="" src="https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/13015511_1109834202443311_6445062789841315743_n.jpg?oh=8186ce04fcb48caefcf9077790d5ce5d&oe=58131F3E">]]></description>
+            <link>https://www.facebook.com/nathalietme/photos/a.754306971329371.1073741828.754246384668763/1109834202443311/?type=3&amp;theater</link>
+            <guid isPermaLink="false">a16a415f-8ec9-4405-bf24-f9891e74aad0</guid>
+            <pubDate>Mon, 15 Aug 2016 00:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="" src="https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/13592583_1168029223290475_6083105504131718328_n.jpg?oh=352c295d43ab4e23f58f033fde795927&oe=581AA5DF">]]></description>
+            <link>https://www.facebook.com/nathalietme/photos/a.754306971329371.1073741828.754246384668763/1168029223290475/?type=3&amp;theater</link>
+            <guid isPermaLink="false">77400c11-e5b6-46fb-8814-b5af5a79016b</guid>
+            <pubDate>Mon, 15 Aug 2016 00:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Blazer lanilla( hasta la cadera) &#x1F53A;&#x1F339;&#x1F53A; Crop rojo( tela sofia) &#x1F4AB;&#x1F339;&#x1F4AB;" src="https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/13241224_1137849582975106_8432684280764354861_n.jpg?oh=1594f532f5893c7d61b8e263bc265553&oe=581A2579">]]></description>
+            <link>https://www.facebook.com/nathalietme/photos/a.754306971329371.1073741828.754246384668763/1137849582975106/?type=3&amp;theater</link>
+            <guid isPermaLink="false">05b27ea7-8b2b-4d77-baa0-2b1c1f3c2ccc</guid>
+            <pubDate>Mon, 15 Aug 2016 00:00:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd7ebd97-623c-412a-8010-3f261ccf99c9.jpg">]]></description>
-            <link>undefinedad2763d8-9fdf-4074-8d3b-014f4725ef7b/index.html</link>
+            <link>https://thegrid.ai/nathaliet-blazers/ad2763d8-9fdf-4074-8d3b-014f4725ef7b/index.html</link>
             <guid isPermaLink="false">ad2763d8-9fdf-4074-8d3b-014f4725ef7b</guid>
             <pubDate>Sun, 14 Aug 2016 16:18:00 GMT</pubDate>
         </item>
