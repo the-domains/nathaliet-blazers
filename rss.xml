@@ -4,8 +4,15 @@
         <description><![CDATA[Nathaliet]]></description>
         <link>https://thegrid.ai/nathaliet-blazers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 00:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2016 00:01:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nathaliet-blazers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd7ebd97-623c-412a-8010-3f261ccf99c9.jpg">]]></description>
+            <link>https://thegrid.ai/nathaliet-blazers/ad2763d8-9fdf-4074-8d3b-014f4725ef7b/index.html</link>
+            <guid isPermaLink="false">ad2763d8-9fdf-4074-8d3b-014f4725ef7b</guid>
+            <pubDate>Mon, 15 Aug 2016 00:01:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="" src="https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/13015511_1109834202443311_6445062789841315743_n.jpg?oh=8186ce04fcb48caefcf9077790d5ce5d&oe=58131F3E">]]></description>
@@ -26,13 +33,6 @@
             <link>https://www.facebook.com/nathalietme/photos/a.754306971329371.1073741828.754246384668763/1137849582975106/?type=3&amp;theater</link>
             <guid isPermaLink="false">05b27ea7-8b2b-4d77-baa0-2b1c1f3c2ccc</guid>
             <pubDate>Mon, 15 Aug 2016 00:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd7ebd97-623c-412a-8010-3f261ccf99c9.jpg">]]></description>
-            <link>https://thegrid.ai/nathaliet-blazers/ad2763d8-9fdf-4074-8d3b-014f4725ef7b/index.html</link>
-            <guid isPermaLink="false">ad2763d8-9fdf-4074-8d3b-014f4725ef7b</guid>
-            <pubDate>Sun, 14 Aug 2016 16:18:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
